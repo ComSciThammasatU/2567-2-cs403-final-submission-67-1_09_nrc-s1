@@ -1,0 +1,7 @@
+มันนี่เมท: แอปพลิเคชันบนมือถือเพื่อการออมเงินอย่างมีเป้าหมาย
+MONEY MATE: MOBILE APPLICATION FOR SAVING GOAL TRACKING
+
+Currently, lack of financial discipline prevents most people with limited income from saving money consistently, putting them at risk of debt during emergencies. This project therefore developed Money Mate, an Android mobile application that helps track income and expenses while building saving discipline according to the 50/30/20 money management formula.
+The application was developed using React Native and utilizes Tesseract.js for extracting data from electronic slips (e-Slips) to automatically record expenses. The prototype supports Bangkok Bank slips. Key functions include daily expense recording and categorization, budget overspending alerts, and real-time savings goal tracking.
+Results: Money Mate can help users become aware of their spending and saving behaviors. However, the OCR data extraction module is still in the prototype stage and currently runs as a web demo, with preparations for full mobile app integration in the next version.
+Keywords: Personal financial management, 50/30/20 money management formula, Tesseract OCR, React Native
